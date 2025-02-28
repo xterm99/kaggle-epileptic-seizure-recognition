@@ -8,7 +8,7 @@ Electroencephalography (EEG) is a fundamental tool in diagnosing and studying ep
 
 <center>
   <figure>
-    <img src="https://github.com/user-attachments/assets/cb247b9c-3309-47ac-8707-639b69792cb3" alt="EEG Patterns" width="500">
+    <img src="https://github.com/user-attachments/assets/cb247b9c-3309-47ac-8707-639b69792cb3" alt="EEG Patterns" width="700">
     <figcaption style="font-size: 0.85em; font-style: italic;">Figure 1: Typical EEG patterns in an epileptic seizure.</figcaption>
   </figure>
 </center>
