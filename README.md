@@ -6,9 +6,10 @@ Epilepsy is a neurological disorder characterized by recurrent seizures resultin
 
 Electroencephalography (EEG) is a fundamental tool in diagnosing and studying epilepsy. It records the brain's electrical activity via electrodes placed on the scalp, capturing waveforms that reflect the underlying neuronal dynamics. In healthy individuals, EEG signals display organized patterns with characteristic waveforms corresponding to different brain states, such as alpha (8–12 Hz) and beta (12–30 Hz) rhythms. However, in individuals with epilepsy, EEG signals exhibit distinctive abnormalities, including sharp spikes, spike-and-wave complexes, and high-frequency oscillations, indicative of disorganized neuronal activity.
 
-![EEG Patterns](https://github.com/user-attachments/assets/cb247b9c-3309-47ac-8707-639b69792cb3)
-
-*Figure 1: Typical EEG patterns in an epileptic seizure.*
+<figure style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <img src="https://github.com/user-attachments/assets/cb247b9c-3309-47ac-8707-639b69792cb3" alt="EEG Patterns" width="500">
+  <figcaption style="font-size: 0.85em; font-style: italic;">Figure 1: Typical EEG patterns in an epileptic seizure.</figcaption>
+</figure>
 
 
 Accurate identification of these epileptiform patterns is crucial for effective diagnosis and management of epilepsy. However, manual interpretation of EEG recordings is time-consuming and prone to subjective bias. This underscores the need for automated, reliable methods to detect and classify epileptic seizures. This project addresses this need by implementing pattern recognition techniques for epileptic seizure detection, aiming to enhance diagnostic precision and inform therapeutic strategies.
