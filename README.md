@@ -44,7 +44,7 @@ For more details, refer to the [Kaggle dataset page](https://www.kaggle.com/data
 
 This repository is structured into a series of notebooks, each focusing on a key stage of the epileptic seizure detection pipeline. The organization is as follows:
 
-- **`0_Initial_Analysis_and_Preprocessing`**: This notebook provides a superficial exploratory data analysis (EDA), checking missing values, class imbalance and visualizing of EEGs.
+- **`0_Initial_Analysis_and_Preprocessing`**: This notebook provides a superficial exploratory data analysis (EDA), checking missing values, class imbalance and visualization of EEGs.
 
 - **`1_Feature_Engineering`**: This section extracts meaningful features from the EEG signals to enhance model performance, including time and frequency domain features, and other relevant signal processing techniques.
 
