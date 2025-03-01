@@ -1,5 +1,10 @@
 # kaggle-epileptic-seizure-recognition
-Abstract del trabajo
+
+Epileptic seizure detection is a crucial task in neurological research, as timely and accurate identification of seizures can significantly improve patient care. This project explores different feature selection strategies and classification models to develop an epileptic seizure signal classifier using EEG data.  
+
+Two feature selection approaches are evaluated: an empirical strategy, which optimizes classification performance directly, and a correlation-separability approach, which selects features based on statistical properties without relying on a predefined model. Additionally, we compare these feature selection strategies with dimensionality reduction techniques and analyze the impact of PCA across different classifiers.
+
+Results show that SVM with an RBF kernel, combined with backward selection, achieves the best performance, reaching an F1-score of 0.985 with low variance in validation metrics. Naive Bayes performs best with the correlation-separability feature set, highlighting how different models benefit from different feature selection strategies.  
 
 ## Problem Context
 Epilepsy is a neurological disorder characterized by recurrent seizures resulting from abnormal, excessive neuronal activity in the brain. These seizures manifest due to synchronized electrical discharges within neuronal networks, disrupting normal brain function.
