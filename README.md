@@ -1,6 +1,6 @@
 # kaggle-epileptic-seizure-recognition
 
-Epileptic seizure detection is a crucial task in neurological research, as timely and accurate identification of seizures can significantly improve patient care. This project explores different feature selection strategies and classification models to develop an epileptic seizure signal classifier using EEG data.  
+Epileptic seizure detection is a crucial task in neurological research, as timely and accurate identification of seizures can significantly improve patient care. This project explores different feature extraction techniques, feature selection strategies and classification models to develop an epileptic seizure signal classifier using EEG data.  
 
 Two feature selection approaches are evaluated: an empirical strategy, which optimizes classification performance directly, and a correlation-separability approach, which selects features based on statistical properties without relying on a predefined model. Additionally, we compare these feature selection strategies with dimensionality reduction techniques and analyze the impact of PCA across different classifiers.
 
@@ -59,9 +59,3 @@ This repository is structured into a series of notebooks, each focusing on a key
 
 - **`4_Models_and_Evaluation`**: This notebook implements different classifiers, evaluates their performance using appropriate metrics, and compares various approaches to identify the most effective models and feature sets.
 
-
-## Conclusions
-
-## Bibliography
-
-https://www.kaggle.com/datasets/harunshimanto/epileptic-seizure-recognition
